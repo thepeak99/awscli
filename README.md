@@ -1,6 +1,6 @@
 # Dockerized AWS CLI
 
-A minimal dockerized version of the AWS CLI tool.
+A minimal, automatically updated, dockerized version of the AWS CLI tool.
 
 # Runing
 
